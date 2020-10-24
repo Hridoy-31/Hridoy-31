@@ -20,3 +20,14 @@ This is **Raihanul Bashir Hridoy**, from **Shahjalal University of Science and T
 - 🔭 Currently working on an applied Unix-based Software Project, keep an eye for it!
 - 🌱 Currently learning Cloud Computing (**Azure**, **AWS**, **GCP**) products and Desktop GUI (**PyQt**) Framework
 - 👯 Looking to collaborate on any Computational Physics research project and Open Source development project
+
+
+## Languages
+
+<p align="left"> <a href = "https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org/"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href = "https://isocpp.org/"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+</p>
+
+
+## Tools and Frameworks
+
+<p align="left> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" alt="atom" width="40" height="40"/> </p>
