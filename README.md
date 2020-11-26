@@ -29,9 +29,6 @@ This is **Raihanul Bashir Hridoy**, from **Shahjalal University of Science and T
 
 
 ## Tools and Frameworks
-
-- [Linux](https://www.linuxfoundation.org/)
-- [Git](https://git-scm.com/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Valgrind](https://www.valgrind.org/)
 - [GDB](https://www.gnu.org/software/gdb)
@@ -40,6 +37,10 @@ This is **Raihanul Bashir Hridoy**, from **Shahjalal University of Science and T
 - [Spyder](https://www.anaconda.com/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [SQLite](https://sqlite.org/)
+
+<p align="left"> <a href = "https://www.linuxfoundation.org"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href = "https://git-scm.com"> <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a> <a href = "https://atom.io"> <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/> </a> <a href = "https://www.google.com/chrome"> <img src="https://devicons.github.io/devicon/devicon.git/icons/chrome/chrome-original.svg" alt="atom" width="40" height="40"/> </a>
+</p>
+
 
 
 ## Profile Overview
