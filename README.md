@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is **Raihanul Bashir Hridoy**, from **Shahjalal University of Science and Technology**. I am a **Junior Physics Undergraduate Student**, **Embedded Software Developer** and **Content Writer**. I am also interested in **DevOps Engineering** and **Quantum Computing**. Check out my repositories and project details!  
+This is **Raihanul Bashir Hridoy**, from **Shahjalal University of Science and Technology**. I am a **Junior Physics Undergraduate Student**, **Embedded Software Developer** and **Content Writer**. I am also interested in **Site Reliability Engineering** and **Quantum Computing**. Check out my repositories and project details!  
 
 - 🔭 Currently working on an applied Unix-based Software Project, keep an eye for it!
 - 🌱 Currently learning Cloud Computing (**Azure**, **AWS**, **GCP**) products and Desktop GUI (**PyQt**) Framework
