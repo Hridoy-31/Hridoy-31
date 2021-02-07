@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm S.M. Raihanul Bashir Hridoy</h1>
 <h3 align="center">A Junior Physics Undergraduate Student having a strong interest in Software Development, SRE and Quantum Computing</h3>
 
+<p align="center"> <img src="https://gpvc.arturio.dev/Hridoy-31" alt="hridoy-31" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hridoy_bashir" target="blank"><img src="https://img.shields.io/twitter/follow/hridoy_bashir?logo=twitter&style=for-the-badge" alt="hridoy_bashir" /></a> </p>
