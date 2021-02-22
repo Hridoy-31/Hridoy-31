@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/>
+</p>
+
+<p align="center">
+
 <h1 align="center">Hi 👋, I'm S.M. Raihanul Bashir Hridoy</h1>
 <h3 align="center">A Junior Physics Undergraduate Student having a strong interest in Software Development, SRE and Quantum Computing</h3>
 
