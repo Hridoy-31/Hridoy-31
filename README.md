@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/>
+  <img src="https://pbs.twimg.com/media/DmK_xgyXsAA2mo8.jpg" alt="Feynman"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/>
+</p> -->
 
 <p align="center">
 
@@ -55,4 +59,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridoy-31&show_icons=true&locale=en" alt="hridoy-31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-31&" alt="hridoy-31" /></p>
+
+
 
