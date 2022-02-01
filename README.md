@@ -58,6 +58,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridoy-31&show_icons=true&locale=en" alt="hridoy-31" /></p>
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustWhit3&layout=compact&theme=algolia)](https://github.com/JustWhit3/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-31&" alt="hridoy-31" /></p>
 
 
