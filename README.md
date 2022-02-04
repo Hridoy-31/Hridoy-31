@@ -9,7 +9,7 @@
 <p align="center">
 
 <h1 align="center">Hi 👋, I'm S.M. Raihanul Bashir Hridoy</h1>
-<h3 align="center">A Junior Physics Undergraduate Student having a strong interest in Software Development and Quantum Computing</h3>
+<h3 align="center">A Senior Physics Undergraduate Student having a strong interest in Software Development and Quantum Computing</h3>
 
 <p align="center"> <img src="https://gpvc.arturio.dev/Hridoy-31" alt="hridoy-31" /></a> </p>
 
