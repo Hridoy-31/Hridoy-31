@@ -62,5 +62,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-31&" alt="hridoy-31" /></p>
 
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridoy-31&theme=github_dark" alt="Hridoy-31" align = "center"/></p>
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hridoy-31&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 
