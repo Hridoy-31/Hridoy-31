@@ -13,9 +13,9 @@
  <th>
  About Me
  </th>
-<th>
+<!-- <th>
 Tech Stack
-</th>
+</th> -->
 </tr>
 
 <tr>
@@ -42,7 +42,7 @@ Tech Stack
      </li>  
    </ul> 
 </td>
-<td>
+<!-- <td>
     <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
     <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">    
     <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
@@ -67,7 +67,7 @@ Tech Stack
     <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">  
     <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat">  
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat">
-  </td>
+  </td> -->
 </tr>
 </table>
 
