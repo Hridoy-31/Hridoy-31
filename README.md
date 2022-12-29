@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/media/DmK_xgyXsAA2mo8.jpg" alt="Feynman"/>
-</p>
-
 <!-- <p align="center">
-  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/>
+  <img src="https://pbs.twimg.com/media/DmK_xgyXsAA2mo8.jpg" alt="Feynman"/>
 </p> -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/>
+</p>
 
 <p align="center">
   
