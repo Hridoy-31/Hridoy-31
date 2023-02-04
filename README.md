@@ -75,7 +75,7 @@ Tech Stack
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hridoy_bashir" target="blank"><img src="https://img.shields.io/twitter/follow/hridoy_bashir?logo=twitter&style=for-the-badge" alt="hridoy_bashir" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/hridoy_bashir" target="blank"><img src="https://img.shields.io/twitter/follow/hridoy_bashir?logo=twitter&style=for-the-badge" alt="hridoy_bashir" /></a> </p> -->
 
 - 🔭 I’m currently working on [an applied Unix-based Software Project, "Disktroy"](https://github.com/Hridoy-31/Disktroy)
 
