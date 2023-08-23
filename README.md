@@ -22,7 +22,7 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm S.M. Raihanul Bashir Hridoy :cherry_blossom: </li>
-     <li> A Physics Graduate Student having a strong interest in Software Development and Quantum Computing 🇧🇩 
+     <li> A Physics Graduate Student having a strong interest in Software Development and Quantum Computing 
 <!--      <li> 8 years experience as a Back-end/BI/Data Engineer</li> -->
 <!--      <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li> -->
      <li> Now studying:   
@@ -71,11 +71,12 @@ Tech Stack
 </tr>
 </table>
 
-<p align="center"> <img src="https://gpvc.arturio.dev/Hridoy-31" alt="hridoy-31" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/hridoy_bashir" target="blank"><img src="https://img.shields.io/twitter/follow/hridoy_bashir?logo=twitter&style=for-the-badge" alt="hridoy_bashir" /></a> </p> -->
+
+-   🌍  I'm based in Bogura, Bangladesh 🇧🇩
 
 - 🔭 I’m currently working on [an applied Unix-based Software Project, "Disktroy"](https://github.com/Hridoy-31/Disktroy)
 
